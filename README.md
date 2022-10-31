@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashuded
+- 👋 Hi, I’m @Awaam
 - 👀 I’m interested in making music bots
 - 🌱 I’m currently LEARNING CODING
 - 💞️ I’m looking to collaborate on ...
